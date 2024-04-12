@@ -54,4 +54,4 @@ https://www.rekihaku.ac.jp/doc/t-db-index.html
 
 ## 履歴
 
-2024/4/13 公開予定
+2024/4/13 公開

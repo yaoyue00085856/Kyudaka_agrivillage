@@ -55,4 +55,5 @@ https://www.rekihaku.ac.jp/doc/t-db-index.html
 ## 履歴
 
 2024/4/13 公開
+
 2024/7/7　若干の修正（陸奥一関藩領、相模足柄下郡沼代村）

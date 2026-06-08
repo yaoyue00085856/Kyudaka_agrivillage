@@ -50,7 +50,7 @@ https://www.rekihaku.ac.jp/doc/t-db-index.html
 
 ## 出典
 
-[本田 謙一, 夏目 宗幸, 根元 裕樹，旧高旧領取調帳と農業集落境界データによる近世村領域推定，地理情報システム学会講演論文集(CD-ROM) ,31巻, P-20.](https://www.gisa-japan.org/content/files/conferences/proceedings/2022cd/papers/P-20.pdf)
+[本田 謙一, 夏目 宗幸, 根元 裕樹，幕末期近世村領域データの作成―旧高旧領取調帳および農業集落境界データを活用して―，GIS-理論と応用, 34 巻 1 号 p. 1-10.](https://www.jstage.jst.go.jp/article/thagis/34/1/34_34.1.1/_article/-char/ja/)
 
 ## 履歴
 
